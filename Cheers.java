@@ -12,7 +12,7 @@ public class Cheers {
             {
                 temp=cheer.charAt(i);
                 if(anLetters.indexOf(temp)==-1)
-                        System.out.println("Give me a "+ temp+": "+temp+"!");
+                        System.out.println("Give me a  "+ temp+": "+temp+"!");
                 else
                         System.out.println("Give me an "+ temp+": "+temp+"!");
 
