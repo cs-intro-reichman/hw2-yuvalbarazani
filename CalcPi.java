@@ -8,6 +8,6 @@ public class CalcPi {
 			sum+= Math.pow(-1.0,i+1)*(1.0/(2*i-1));
 		}
 		System.out.println("pi according to Java: 3.141592653589793");
-		System.out.println("pi, approximated: "+ 4*sum);
+		System.out.println("pi, approximated:"+ 4*sum);
 	}
 }
